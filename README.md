@@ -27,4 +27,4 @@ El objetivo es **practicar y fortalecer habilidades en JavaScript** aplicando l√
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/edwintrel/challenge-amigo-secreto
+   git clone https://github.com/edwintrel/challenge-amigo-secreto.git
